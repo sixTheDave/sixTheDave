@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @smilingSix
+- 👀 I’m interested in security of cryptocurrencies and DAOs.
