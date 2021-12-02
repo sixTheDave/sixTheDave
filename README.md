@@ -1,2 +1,3 @@
-- 👋 Hi, my name is Six (@smilingSix), I am founder of CCTF and co-founder of QRUCIAL.
-- 👀 I’m interested in security of cryptocurrencies and DAOs.
+- Hi, my name is Six (@smilingSix), I am founder of CCTF and co-founder of QRUCIAL.
+- I’m interested in security of cryptocurrencies and DAOs.
+- Linkree in this folder's repo or LinkTree: https://linktr.ee/smilingSix
