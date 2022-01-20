@@ -1,3 +1,3 @@
-- Hi, my name is Six (@smilingSix), I am founder of CCTF and co-founder of QRUCIAL.
+- Hi, my name is Six (@smilingSix), I am the founder of CCTF, co-founder of QRUCIAL and a Polkadot Head Ambassador.
 - I’m interested in security of cryptocurrencies and DAOs.
 - Linkree in this folder's repo or LinkTree: https://linktr.ee/smilingSix
