@@ -1,3 +1,3 @@
-- Hi, my name is Six (@smilingSix), I am the founder of CCTF, co-founder of QRUCIAL and a Polkadot Head Ambassador.
+- Hi, my name is Six (@smilingSix), I am the founder of [CCTF](https://cryptoctf.org/), co-founder of [QRUCIAL](https://qrucial.io/) and a [Polkadot](https://polkadot.network/) Head Ambassador.
 - I’m interested in security of cryptocurrencies and DAOs.
-- Linkree in this folder's repo or LinkTree: https://linktr.ee/smilingSix
+- Linkfree / Linkree are in [git](https://git.hsbp.org/six/smilingSix) or [LinkTree](https://linktr.ee/smilingSix).
