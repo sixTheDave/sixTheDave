@@ -1,6 +1,6 @@
-- Hi, my name is Six (@smilingSix)
+- Hi, my name is Six (@sixTheDave)
 - Founder of [CCTF](https://cryptoctf.org/)
-- Co-founder of [QRUCIAL](https://qrucial.io/) 
+- Co-founder of [QRUCIAL](https://qrucial.io/)
 - Head Ambassador of Eastern Europe at [Polkadot](https://polkadot.network/)
 - I’m interested in the security of Web3.0 and Life itself.
-- Linkfree / Linkree are in [git](https://git.hsbp.org/six/smilingSix) or [LinkTree](https://linktr.ee/smilingSix).
+- Linkfree -> [sixthedave.me](https://sixthedave.me)
