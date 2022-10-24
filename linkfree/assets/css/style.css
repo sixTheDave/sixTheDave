@@ -1,5 +1,5 @@
 /* Style Settings */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+@import url('../fonts/opensans');
 
 body {
     background: url('../images/bg.webp');
