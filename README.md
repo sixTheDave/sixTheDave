@@ -1,5 +1,7 @@
-- Hi, my name is Six (@sixTheDave)
+- Hi, my name is six
+- Co-Founder of [G6 Networks](https://g6.network/) (Gen6 USA LLC)
 - Founder of [CCTF](https://cryptoctf.org/)
-- Head Ambassador of Eastern Europe at [Polkadot](https://polkadot.network/)
+- Energy Worker, Reiki Master/Teacher
+- Previously, Head Ambassador of [Polkadot](https://polkadot.com/)
 - I’m interested in the security of Web3.0 and Life itself.
 - Linkfree -> [sixthedave.me](https://sixthedave.me)
