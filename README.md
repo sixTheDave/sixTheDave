@@ -1,7 +1,7 @@
-- Hi, my name is six
-- Co-Founder of [G6 Networks](https://g6.network/) (Gen6 USA LLC)
-- Founder of [CCTF](https://cryptoctf.org/)
+- Hi, my name is David (six)
+- Founder of [Gen6](https://gen6.life/) (Gen6 USA LLC)
+- Verified Gen6 Profile -> [six](https://gen6.app/identity/six)
 - Energy Worker, Reiki Master/Teacher
+- Founder of the Hacker Competition Series [CCTF](https://cryptoctf.org/)
 - Previously, Head Ambassador of [Polkadot](https://polkadot.com/)
-- I’m interested in the security of Web3.0 and Life itself.
-- Linkfree -> [sixthedave.me](https://sixthedave.me)
+- Main skills: privacy, it security, business, strategy.
